@@ -1,0 +1,9 @@
+identifier: mag0ockd07d0uew2
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: 01-Personal-blog
+homeFolder: C:\Users\Fabio\Downloads\Angular Projects\01-Personal-blog
+outDir: C:\Users\Fabio\Downloads\Angular Projects\01-Personal-blog\dist\static
+handle404: ''
