@@ -28,6 +28,7 @@ Criar uma aplicação de **gerenciamento de problemas (issue tracker)** que perm
 ---
 
 ## 🧱 Estrutura inicial
+```text
 src/
 ├── app/
 │ ├── core/
@@ -47,6 +48,7 @@ src/
 │ └── pages/
 │ └── issue-dashboard/
 ├── assets/
+```
 
 ---
 
@@ -92,7 +94,8 @@ git clone https://github.com/fabiolizzijr/angular-projects/02-Issue-tracker.git
 cd angular-projects/02-Issue-tracker
 npm install
 ng serve
-Acesse em http://localhost:4200/
+# Acesse em http://localhost:4200/
+```
 
 ---
 
