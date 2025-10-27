@@ -76,6 +76,7 @@ src/
 
 Wireframe criado no estilo mobile-first (360x640) no drawio.com:
 
+<img width="362" height="640" alt="WireFrame-360-640-GerenciadorProblemas drawio" src="https://github.com/user-attachments/assets/82b04091-b15d-4840-94cc-3e26d66c6cae" />
 
 
 ---
@@ -92,6 +93,7 @@ cd angular-projects/02-Issue-tracker
 npm install
 ng serve
 Acesse em http://localhost:4200/
+
 ---
 
 ## 🚩 Créditos
