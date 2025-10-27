@@ -1,0 +1,12 @@
+import { Component } from '@angular/core';
+import { Breadcrumb } from '../breadcrumb/breadcrumb';
+
+@Component({
+  selector: 'app-header',
+  imports: [Breadcrumb],
+  templateUrl: './header.html',
+  styleUrl: './header.css',
+})
+export class Header {
+
+}
