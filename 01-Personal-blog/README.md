@@ -30,16 +30,16 @@ excelência UI e UX.
 ---
 
 ## 📸 Demonstração
-(adicione uma screenshot ou gif animado aqui)
+<img width="1916" height="871" alt="screenshot" src="https://github.com/user-attachments/assets/b8dd94a5-3d08-4439-83fb-a57069ad0fab" />
+
 ---
 
 ## 🧠 Aprendizados principais
-Aprendi a organizar as pastas em core, features, shared de acordo com o uso no projeto.
-Aprendi a configurar rotas estáticas com Angular Router.
-Mais recentemente no Curso Frontend engineering, da CodeSignal, aprendi a usar CanMatch, CanActivate, CanDeactive e Resolve.
-Aprendi a usar standalone ao invés do NgModule, acompanhando as novas tendências.
-Não implementei Scully ou Jamstack conforme o livro, consta no arquivos o scully.ts, mas optei por seguir as novas práticas recomendadas do standalone, que ainda não é bem suportado no Scully. Entendi a ideia de usar Scully como gerador de páginas.
-Optei por seguir para os próximos projetos do livro que parecem mais promissores
+-Aprendi a organizar as pastas em core, features, shared de acordo com o uso no projeto.
+-Aprendi a configurar rotas estáticas com Angular Router. Mais recentemente no Curso Frontend engineering, da CodeSignal, aprendi a usar CanMatch, CanActivate, CanDeactive e Resolve.
+-Aprendi a usar standalone ao invés do NgModule, acompanhando as novas tendências.
+-Não implementei Scully ou Jamstack conforme o livro, consta no arquivos o scully.ts, mas optei por seguir as novas práticas recomendadas do standalone, que ainda não é bem suportado no Scully. Entendi a ideia de usar Scully como gerador de páginas.
+-Optei por seguir para os próximos projetos do livro que parecem mais promissores
 ---
 
 ##  Como executar
