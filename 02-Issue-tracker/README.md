@@ -61,19 +61,6 @@ src/
 
 ---
 
-## 📆 Cronograma (Sprints)
-
-| Semana | Entrega | Descrição |
-|--------|----------|-----------|
-| 1 | Setup & Layout base | Estrutura inicial, header, menu, footer e dashboard | :white_check_mark:
-| 2 | Serviço e interface | Mock service, interface Issue |
-| 3 | Issue List | Listagem de issues no dashboard |
-| 4 | Issue Report | Formulário de criação |
-| 5 | Confirm Dialog | Exclusão e refinamentos |
-| 6 | Responsividade & Deploy | Ajustes visuais e publicação no GitHub Pages |
-
----
-
 ## 📸 Layout inicial
 
 Wireframe criado no estilo mobile-first (360x640) no drawio.com:
